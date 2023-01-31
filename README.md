@@ -1,6 +1,6 @@
 # Decimal Assert
 
-Easier assert large [shopspring/decimal](https://github.com/shopspring/decimal) in struct without failed from different exponential.
+Easier assert [shopspring/decimal](https://github.com/shopspring/decimal) in large struct without failed from different exponential.
 
 ## Usage
 
